@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/scenenew.unity
+  isLoaded: 1
+  isActive: 1
